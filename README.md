@@ -1,6 +1,7 @@
 # Review_section
 
 ## Description
+The review section is a basic components that can be used for any web site projects as component.
 
 
 ## UI
